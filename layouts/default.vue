@@ -1,7 +1,7 @@
 <template>
   <header>
     <nav>
-      <h1>Ninja Book Store</h1>
+      <h1>Book Store</h1>
       <NuxtLink to="/">Home</NuxtLink>
       <NuxtLink to="/admin">Admin</NuxtLink>
       <NuxtLink to="/login">Login</NuxtLink>
