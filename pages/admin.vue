@@ -6,7 +6,7 @@
 </template>
 
 <script setup>
-definePageMeta({
-  middleware: ['auth']
-})
+  definePageMeta({
+    middleware: ['auth', 'admin']
+  })
 </script>
